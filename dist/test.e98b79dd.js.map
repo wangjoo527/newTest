@@ -1,0 +1,1 @@
+{"version":3,"sources":["test.js"],"names":["console","log","getType"],"mappings":"AAAAA,OAAO,CAACC,GAAR,CAAYC,OAAO,CAAC,IAAD,CAAnB","file":"test.e98b79dd.js","sourceRoot":"..","sourcesContent":["console.log(getType(1234));"]}
